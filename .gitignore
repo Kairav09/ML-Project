@@ -1,0 +1,51 @@
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Python & Jupyter Notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environments & Secrets
+.env
+.env*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs & Editors
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# Project Documents / Local Files
+Abstract.docx
+CO1-Session 2.pptx
+paper backup.pdf
